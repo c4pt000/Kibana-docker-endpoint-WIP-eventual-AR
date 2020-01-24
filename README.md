@@ -1,3 +1,7 @@
+<p align="center"><img src="https://github.com/c4pt000/Kibana-docker-endpoint-WIP/raw/master/kibana-goals-docker-modular1.png" width="800"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/Kibana-docker-endpoint-WIP/master/kibana-maps-endpoints-goals-docker2.png" width="800"></p>
+
+
 
 
 docker pull docker.elastic.co/kibana/kibana:7.5.2
