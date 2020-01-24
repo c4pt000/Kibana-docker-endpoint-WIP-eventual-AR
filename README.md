@@ -6,10 +6,12 @@
 
 
 
-
+```
 docker pull amazon/opendistro-for-elasticsearch:1.3.0
 
 docker pull amazon/opendistro-for-elasticsearch-kibana:1.3.0
+```
+<br>
 Running Kibana on Docker
 edit
 
