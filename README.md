@@ -1,4 +1,7 @@
 
+
+docker pull docker.elastic.co/kibana/kibana:7.5.2
+
 Running Kibana on Docker
 edit
 
