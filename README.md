@@ -125,3 +125,13 @@ The setting xpack.monitoring.ui.container.elasticsearch.enabled is not defined i
 These settings are defined in the default kibana.yml. They can be overridden with a custom kibana.yml or via environment variables.
 
 If replacing kibana.yml with a custom version, be sure to copy the above defaults to the custom file if you want to retain them. If not, they will be "masked" by the new file.
+
+
+
+
+
+
+
+https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
+
+on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin
