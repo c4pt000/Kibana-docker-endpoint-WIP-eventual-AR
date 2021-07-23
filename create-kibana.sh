@@ -8,7 +8,7 @@ cd elasticsearch-kibana-setup
 touch docker-compose.yml
 
 echo '
-version: '3'
+version: "3"
 services:
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:6.8.0
