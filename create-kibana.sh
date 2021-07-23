@@ -1,7 +1,7 @@
+#!/bin/sh
+
 yum install docker-compose -y
  
-
-
 cd 
 mkdir elasticsearch-kibana-setup 
 cd elasticsearch-kibana-setup 
