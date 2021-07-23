@@ -2,7 +2,7 @@
 
 yum install docker-compose -y
  
-cd 
+rm -rf elasticsearch-kibana-setup 
 mkdir elasticsearch-kibana-setup 
 cd elasticsearch-kibana-setup 
 touch docker-compose.yml
